@@ -1,0 +1,15 @@
+/Users/elijahamoako/Projects/ToDoListApplication/ToDoListApplication/bin/Debug/net7.0/ToDoListApplication
+/Users/elijahamoako/Projects/ToDoListApplication/ToDoListApplication/bin/Debug/net7.0/ToDoListApplication.deps.json
+/Users/elijahamoako/Projects/ToDoListApplication/ToDoListApplication/bin/Debug/net7.0/ToDoListApplication.runtimeconfig.json
+/Users/elijahamoako/Projects/ToDoListApplication/ToDoListApplication/bin/Debug/net7.0/ToDoListApplication.dll
+/Users/elijahamoako/Projects/ToDoListApplication/ToDoListApplication/bin/Debug/net7.0/ToDoListApplication.pdb
+/Users/elijahamoako/Projects/ToDoListApplication/ToDoListApplication/obj/Debug/net7.0/ToDoListApplication.csproj.AssemblyReference.cache
+/Users/elijahamoako/Projects/ToDoListApplication/ToDoListApplication/obj/Debug/net7.0/ToDoListApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elijahamoako/Projects/ToDoListApplication/ToDoListApplication/obj/Debug/net7.0/ToDoListApplication.AssemblyInfoInputs.cache
+/Users/elijahamoako/Projects/ToDoListApplication/ToDoListApplication/obj/Debug/net7.0/ToDoListApplication.AssemblyInfo.cs
+/Users/elijahamoako/Projects/ToDoListApplication/ToDoListApplication/obj/Debug/net7.0/ToDoListApplication.csproj.CoreCompileInputs.cache
+/Users/elijahamoako/Projects/ToDoListApplication/ToDoListApplication/obj/Debug/net7.0/ToDoListApplication.dll
+/Users/elijahamoako/Projects/ToDoListApplication/ToDoListApplication/obj/Debug/net7.0/refint/ToDoListApplication.dll
+/Users/elijahamoako/Projects/ToDoListApplication/ToDoListApplication/obj/Debug/net7.0/ToDoListApplication.pdb
+/Users/elijahamoako/Projects/ToDoListApplication/ToDoListApplication/obj/Debug/net7.0/ToDoListApplication.genruntimeconfig.cache
+/Users/elijahamoako/Projects/ToDoListApplication/ToDoListApplication/obj/Debug/net7.0/ref/ToDoListApplication.dll
