@@ -1,5 +1,9 @@
-﻿using System.Linq;
+﻿using System;
+using System.Linq;
 using System.Collections.Generic;
+using System.Text;
+using System.Threading.Tasks;
+
 using static ToDoListApplication.storage;
 //Welcome message for user.
 Console.WriteLine("Welcome to my ToDo List Application.");
@@ -25,9 +29,10 @@ while (option != "e")
         case "1":
             Console.WriteLine("Enter the task you want to add to the list:");
             string task = Console.ReadLine();
+            DateTime now = DateTime.Now;
             taskList.Add(task);
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("\nTask successfully added to list.");
+            Console.WriteLine($"\nTask successfully added to list. ({now})");
             Console.ResetColor();
             Console.WriteLine("Press enter to return to main menu.");
             break;
